@@ -1,6 +1,6 @@
-# Simple RAG Service
+# RAG Service
 
-一个最小可用的 RAG 服务实现，不包含 API，只提供可直接调用的函数。
+一个可用的 RAG 服务
 
 ## 功能
 
@@ -33,6 +33,7 @@
 - `dashscope`
 - `sentence-transformers`
 
+使用 `uv sync` 安装依赖
 ## 使用方式
 
 ```python
